@@ -3,7 +3,7 @@
 # Terminal Setup
 
 After recommendations from you guys, I've swapped out Alacritty for [WezTerm](https://wezfurlong.org/wezterm/index.html)!
-Everything is the same except the Alacritty config file, you can swap it out with this [~/.wezterm.lua](.wezterm.lua)
+Everything is the same except the Alacritty config file, you can swap it out with this [wezterm.lua](./wezterm/wezterm.lua)
 
 ### Relevant Files
 
