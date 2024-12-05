@@ -1,0 +1,18 @@
+[font]
+size = 13
+
+[font.normal]
+family = "Monoid Nerd Font"
+style = "Regular"
+
+[window]
+option_as_alt = "OnlyLeft"
+
+[keyboard]
+bindings = [
+{ key = "Right", mods = "Alt", chars = "\u001bF" },
+{ key = "Left", mods = "Alt", chars = "\u001bB" },
+]
+
+[general]
+import = [ "~/.config/alacritty/themes/themes/tokyo-night-storm.toml" ]
